@@ -1,0 +1,55 @@
+21:16:51,288  INFO devpinoyLogger<strong>{1}</strong>:33 - Started the suite
+21:16:51,319  INFO devpinoyLogger<strong>{1}</strong>:46 - Start the browser
+21:16:51,319  INFO devpinoyLogger<strong>{1}</strong>:51 - firefox
+21:17:01,182  INFO devpinoyLogger<strong>{1}</strong>:82 - Facebook webpage open successfully
+21:17:31,251 DEBUG devpinoyLogger<strong>{1}</strong>:42 - Issued with:Unable to locate element: //input[@id='u_0_f']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:33:15.31Z'
+System info: host: 'LAPTOP-AS9UCBHI', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 69.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20190917135527, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 52148, moz:profile: C:\Users\Imtiaz\AppData\Loc..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 66a71fe0-950d-4ae5-b178-6032df14fe19
+*** Element info: {Using=xpath, value=//input[@id='u_0_f']}
+21:18:01,272 DEBUG devpinoyLogger<strong>{1}</strong>:42 - Issued with:Unable to locate element: //input[@id='u_0_h']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:33:15.31Z'
+System info: host: 'LAPTOP-AS9UCBHI', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 69.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20190917135527, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 52148, moz:profile: C:\Users\Imtiaz\AppData\Loc..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 66a71fe0-950d-4ae5-b178-6032df14fe19
+*** Element info: {Using=xpath, value=//input[@id='u_0_h']}
+21:18:31,305 DEBUG devpinoyLogger<strong>{1}</strong>:42 - Issued with:Unable to locate element: //input[@id='u_0_k']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:33:15.31Z'
+System info: host: 'LAPTOP-AS9UCBHI', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 69.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20190917135527, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 52148, moz:profile: C:\Users\Imtiaz\AppData\Loc..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 66a71fe0-950d-4ae5-b178-6032df14fe19
+*** Element info: {Using=xpath, value=//input[@id='u_0_k']}
+21:19:01,325 DEBUG devpinoyLogger<strong>{1}</strong>:42 - Issued with:Unable to locate element: //input[@id='u_0_n']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:33:15.31Z'
+System info: host: 'LAPTOP-AS9UCBHI', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 69.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20190917135527, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 52148, moz:profile: C:\Users\Imtiaz\AppData\Loc..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 66a71fe0-950d-4ae5-b178-6032df14fe19
+*** Element info: {Using=xpath, value=//input[@id='u_0_n']}
+21:19:31,347 DEBUG devpinoyLogger<strong>{1}</strong>:42 - Issued with:Unable to locate element: //input[@id='u_0_p']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:33:15.31Z'
+System info: host: 'LAPTOP-AS9UCBHI', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 69.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20190917135527, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 52148, moz:profile: C:\Users\Imtiaz\AppData\Loc..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 66a71fe0-950d-4ae5-b178-6032df14fe19
+*** Element info: {Using=xpath, value=//input[@id='u_0_p']}
+21:20:02,320 DEBUG devpinoyLogger<strong>{1}</strong>:52 - Issued with:Unable to locate element: //button[@id='u_0_w']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:33:15.31Z'
+System info: host: 'LAPTOP-AS9UCBHI', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 69.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20190917135527, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 52148, moz:profile: C:\Users\Imtiaz\AppData\Loc..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 66a71fe0-950d-4ae5-b178-6032df14fe19
+*** Element info: {Using=xpath, value=//button[@id='u_0_w']}
+21:20:02,320  INFO devpinoyLogger<strong>{1}</strong>:90 - Close the browser
+21:20:02,320  INFO devpinoyLogger<strong>{1}</strong>:46 - Start the browser
+21:20:02,351  INFO devpinoyLogger<strong>{1}</strong>:38 - Ened the suite
