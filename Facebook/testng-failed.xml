@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Facebook]" parallel="tests">
+  <parameter name="browser" value="chrome"/>
+  <parameter name="url" value="https://www.facebook.com/"/>
+  <test name="Facebook singing testing using chrome test(failed)" parallel="tests">
+    <parameter name="browser" value="chrome"/>
+    <parameter name="url" value="https://www.facebook.com/"/>
+    <classes>
+      <class name="com.testcases.Fbaccount_Tc">
+        <methods>
+          <include name="browseropen"/>
+          <include name="browseropen"/>
+          <include name="fbAccount"/>
+          <include name="fbSignIn"/>
+          <include name="closedriver"/>
+          <include name="beforesuite"/>
+        </methods>
+      </class> <!-- com.testcases.Fbaccount_Tc -->
+    </classes>
+  </test> <!-- Facebook singing testing using chrome test(failed) -->
+  <test name="Facebook singing testing using Firefox test(failed)" parallel="tests">
+    <parameter name="browser" value="firefox"/>
+    <parameter name="url" value="https://www.facebook.com/"/>
+    <classes>
+      <class name="com.testcases.Fbaccount_Tc">
+        <methods>
+          <include name="browseropen"/>
+          <include name="browseropen"/>
+          <include name="fbSignIn"/>
+          <include name="closedriver"/>
+          <include name="beforesuite"/>
+        </methods>
+      </class> <!-- com.testcases.Fbaccount_Tc -->
+    </classes>
+  </test> <!-- Facebook singing testing using Firefox test(failed) -->
+</suite> <!-- Failed suite [Facebook] -->
